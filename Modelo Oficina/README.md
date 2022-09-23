@@ -1,3 +1,9 @@
+### Descrição do Desafio
+
+Agora você irá criar um esquema conceitual do zero. A partir da narrativa fornecida você será capaz de criar todas as entidades, relacionamentos e atributos. Caso encontre algo que não foi definido na narrativa, utilize a sua compreensão do contexto e deixe uma descrição no README do seu github. para verificação.
+
+### Cria o esquema conceitual para o contexto de oficina com base na narrativa fornecida
+
 ### Oficina - Narrativa
 
 - [x]  Sistema de controle e gerenciamento de execução de ordens de serviço em uma oficina mecânica;
@@ -13,3 +19,8 @@
 - [x]  Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS
 - [x]  O Veículo posui placa, marca e modelo;
 - [x]  O Cliente efetuará o pagamento do serviço após aprovação da OS
+
+
+
+
+
