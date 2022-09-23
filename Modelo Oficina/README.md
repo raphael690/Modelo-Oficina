@@ -12,4 +12,4 @@
 - [x]  Uma OS pode ser composta por vários serviços e um mesmo serviço pode estar contido em mais de uma OS;
 - [x]  Uma OS pode ter vários tipos de peça e uma peça pode estar presente em mais de uma OS
 - [x]  O Veículo posui placa, marca e modelo;
-- [x]  O Cliente efetuara o pagamento do serviço.
+- [x]  O Cliente efetuará o pagamento do serviço após aprovação da OS
